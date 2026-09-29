@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\tugas menhitung nilai\tugas menhitung nilai\bin\Debug\net10.0\tugas menhitung nilai.exe
+C:\Users\USER\source\repos\tugas menhitung nilai\tugas menhitung nilai\bin\Debug\net10.0\tugas menhitung nilai.deps.json
+C:\Users\USER\source\repos\tugas menhitung nilai\tugas menhitung nilai\bin\Debug\net10.0\tugas menhitung nilai.runtimeconfig.json
+C:\Users\USER\source\repos\tugas menhitung nilai\tugas menhitung nilai\bin\Debug\net10.0\tugas menhitung nilai.dll
+C:\Users\USER\source\repos\tugas menhitung nilai\tugas menhitung nilai\bin\Debug\net10.0\tugas menhitung nilai.pdb
+C:\Users\USER\source\repos\tugas menhitung nilai\tugas menhitung nilai\obj\Debug\net10.0\tugas menhitung nilai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\tugas menhitung nilai\tugas menhitung nilai\obj\Debug\net10.0\tugas menhitung nilai.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\tugas menhitung nilai\tugas menhitung nilai\obj\Debug\net10.0\tugas menhitung nilai.AssemblyInfo.cs
+C:\Users\USER\source\repos\tugas menhitung nilai\tugas menhitung nilai\obj\Debug\net10.0\tugas menhitung nilai.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\tugas menhitung nilai\tugas menhitung nilai\obj\Debug\net10.0\tugas menhitung nilai.dll
+C:\Users\USER\source\repos\tugas menhitung nilai\tugas menhitung nilai\obj\Debug\net10.0\refint\tugas menhitung nilai.dll
+C:\Users\USER\source\repos\tugas menhitung nilai\tugas menhitung nilai\obj\Debug\net10.0\tugas menhitung nilai.pdb
+C:\Users\USER\source\repos\tugas menhitung nilai\tugas menhitung nilai\obj\Debug\net10.0\tugas menhitung nilai.genruntimeconfig.cache
+C:\Users\USER\source\repos\tugas menhitung nilai\tugas menhitung nilai\obj\Debug\net10.0\ref\tugas menhitung nilai.dll
+C:\Users\USER\source\repos\tugas menhitung nilai\tugas menhitung nilai\obj\Debug\net10.0\tugas me.89EBCC10.Up2Date
